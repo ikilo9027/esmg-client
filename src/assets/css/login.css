@@ -1,0 +1,26 @@
+.v-input__icon{
+  cursor: pointer;
+}
+.v-text-field.v-text-field--enclosed .v-text-field__details{
+  margin-bottom:3px !important;
+}
+.login {
+  /* border: 1px solid blue; */
+  width: 300px;
+  height: 500px;
+  position:absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.login .login_logo{
+  /* border: 1px solid red; */
+  width:300px; 
+  height:200px;
+  background:url('../images/espreso_icon_white_background.png') center center no-repeat;
+  background-size :110px 110px ;
+}
+.login .login_btn{
+  /* border: 1px solid orange; */
+  margin-top: 20px;
+}
